@@ -1,0 +1,12 @@
+﻿
+Name         Mode  
+----         ----  
+docs         d-----
+migrations   d-----
+scholartrack d-----
+scripts      d-----
+tests        d-----
+tmp_root.txt -a----
+
+
+

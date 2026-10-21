@@ -1,0 +1,14 @@
+﻿
+FullName                                                                                                                              
+--------                                                                                                                              
+C:\Users\LENOVO\Desktop\Codeyuva\cnan\scholartrack\.pytest_cache\README.md                                                            
+C:\Users\LENOVO\Desktop\Codeyuva\cnan\scholartrack\.venv\Lib\site-packages\httpcore-1.0.9.dist-info\licenses\LICENSE.md               
+C:\Users\LENOVO\Desktop\Codeyuva\cnan\scholartrack\.venv\Lib\site-packages\httpx-0.27.2.dist-info\licenses\LICENSE.md                 
+C:\Users\LENOVO\Desktop\Codeyuva\cnan\scholartrack\.venv\Lib\site-packages\idna-3.20.dist-info\licenses\LICENSE.md                    
+C:\Users\LENOVO\Desktop\Codeyuva\cnan\scholartrack\.venv\Lib\site-packages\pip-25.2.dist-info\licenses\src\pip\_vendor\idna\LICENSE.md
+C:\Users\LENOVO\Desktop\Codeyuva\cnan\scholartrack\.venv\Lib\site-packages\soupsieve-3.0.3.dist-info\licenses\LICENSE.md              
+C:\Users\LENOVO\Desktop\Codeyuva\cnan\scholartrack\.venv\Lib\site-packages\starlette-0.38.6.dist-info\licenses\LICENSE.md             
+C:\Users\LENOVO\Desktop\Codeyuva\cnan\scholartrack\.venv\Lib\site-packages\uvicorn-0.32.1.dist-info\licenses\LICENSE.md               
+
+
+
